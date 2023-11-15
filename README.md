@@ -65,8 +65,13 @@ After configuring the Hardware to run the app, follow these steps:
 4. After running the application using `flutter run` open another terminal then change directory to flask-api folder `cd flask-api`.
 5. In the new terminal write run the Flask API file using `run app.py`
 
+## Testing
 
 In order for the application to run properly on your Android/iOS device, you should configure the IP address in `main.dart` file to the same IP address of the device's network you are running API on.
+
+The application was tested on Galaxy A7 Tab with One UI Core Version of 5.1 and Android version 13. Moreover, it was also tested using Android Emulator on Windows 10
+
+
 
 ## Acknowledgments
 
