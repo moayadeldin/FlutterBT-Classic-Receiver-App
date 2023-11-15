@@ -1,6 +1,6 @@
 # FlutterBT-Classic-Receiver-App
 
-Illustrative example of sending periodic data from HC-05 Bluetooth Classic device to Flutter application integrating `flutter_bluetooth_serial` module and Flask API.
+Illustrative example of sending periodic data from HC-05 Bluetooth Classic device to Flutter application integrating Bluetooth Classic devices and modules with Flask API to be deployed in Flutter applications.
 
 ## Main Goal
 
@@ -8,7 +8,7 @@ Sending data from HC-05 module with Classic Bluetooth connection to Flutter Appl
 
 ## Features
 
-This is an up-to-date example of sending periodic data from HC-05 as a Classic Bluetooth Module to Flutter app integrating `flutter_bluetooth_serial` and Flask API together offering the following improvments:
+This is an up-to-date example of sending periodic data from HC-05 as a Classic Bluetooth Module to Flutter app integrating Bluetooth Classic and Flask API together instead of `flutter_bluetooth_serial` offering the following improvments:
 
 * Ability to send data from HC-05 without having the cost of getting another microcontroller as a third party device.
 * Ability to send data from HC-05 to Flutter app without having active internet connection. (Both devices have to be on the same network though)
